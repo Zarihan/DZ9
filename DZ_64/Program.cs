@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Задача 64
+int n = 5;  
+
+for (int i = n; i >= 1; i--) 
+{ 
+Console.Write(i + " "); 
+}
